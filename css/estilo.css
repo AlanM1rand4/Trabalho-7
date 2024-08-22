@@ -1,0 +1,32 @@
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+
+    background-color: rgb(190, 190, 190);
+    font-family: 'Poppins', sans-serif;
+
+}
+
+#container {
+
+    margin: 100px; 
+
+}
+
+.container {
+    text-align: center;
+}
+
+.container img {
+    max-width: 100%;
+    height: auto;
+}
+
+.tamanho {
+
+    font-size: 50px
+}
