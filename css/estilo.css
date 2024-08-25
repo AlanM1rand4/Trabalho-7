@@ -17,7 +17,13 @@ a {
 h1 {
     font-family: 'Matemasie'
 }
+.titulo-inicio {
+    transition: color 0.3s ease;
+}
 
+.titulo-inicio:hover {
+    color: gray; 
+}
 .titulo-agua {
     transition: color 0.3s ease;
 }
