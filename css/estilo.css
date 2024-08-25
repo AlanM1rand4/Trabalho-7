@@ -22,7 +22,7 @@ h1 {
 }
 
 .titulo-inicio:hover {
-    color: gray; 
+    color: rgb(82, 82, 82); 
 }
 .titulo-agua {
     transition: color 0.3s ease;
