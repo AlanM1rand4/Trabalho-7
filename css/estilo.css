@@ -10,10 +10,39 @@ body {
     font-family: 'Poppins', sans-serif;
 
 }
+a {
+    font-family: 'Lora', serif;
+}
 
-#container {
+h1 {
+    font-family: 'Matemasie'
+}
 
-    margin: 100px; 
+.titulo-agua {
+    transition: color 0.3s ease;
+}
+
+.titulo-agua:hover {
+    color: blue; 
+}
+.titulo-fogo {
+    transition: color 0.3s ease;
+}
+
+.titulo-fogo:hover {
+    color: red; 
+}
+.titulo-grama {
+    transition: color 0.3s ease;
+}
+
+.titulo-grama:hover {
+    color: green; 
+}
+
+.margin {
+
+    margin: 200px; 
 
 }
 
@@ -29,4 +58,26 @@ body {
 .tamanho {
 
     font-size: 50px
+}
+
+#fundo_azul{
+
+    background-color: #A3D9E6;
+}
+
+#fundo_vermelho{
+
+    background-color: #F9A3A3;
+}
+#fundo_verde{
+
+    background-color: #A8E6A3;
+}
+
+img {
+    width: 800px;
+}
+
+.imagem-pequena {
+    width: 80px;
 }
